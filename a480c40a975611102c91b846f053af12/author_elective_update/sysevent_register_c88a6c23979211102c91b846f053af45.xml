@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description/>
+        <event_name>x_774838_zetechno.Assignment group membe</event_name>
+        <fired_by/>
+        <queue/>
+        <suffix>Assignment group members -Incident creat</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 12:20:56</sys_created_on>
+        <sys_id>c88a6c23979211102c91b846f053af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_774838_zetechno.Assignment group membe</sys_name>
+        <sys_package display_value="ZeTechno" source="x_774838_zetechno">a480c40a975611102c91b846f053af12</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeTechno">a480c40a975611102c91b846f053af12</sys_scope>
+        <sys_update_name>sysevent_register_c88a6c23979211102c91b846f053af45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-08 12:20:56</sys_updated_on>
+        <table>incident</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeTechno">a480c40a975611102c91b846f053af12</application>
+        <file_path/>
+        <instance_id>81db56d3dbf36010c6e711f84896199f</instance_id>
+        <instance_name>dev113025</instance_name>
+        <name>sysevent_register_c88a6c23979211102c91b846f053af45</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><description/><event_name>x_774838_zetechno.Assignment group membe</event_name><fired_by/><queue/><suffix>Assignment group members -Incident creat</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-08 12:20:56</sys_created_on><sys_id>c88a6c23979211102c91b846f053af45</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_774838_zetechno.Assignment group membe</sys_name><sys_package display_value="ZeTechno" source="x_774838_zetechno">a480c40a975611102c91b846f053af12</sys_package><sys_policy/><sys_scope display_value="ZeTechno">a480c40a975611102c91b846f053af12</sys_scope><sys_update_name>sysevent_register_c88a6c23979211102c91b846f053af45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-08 12:20:56</sys_updated_on><table>incident</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>637355560</payload_hash>
+        <record_name>x_774838_zetechno.Assignment group membe</record_name>
+        <reverted_from/>
+        <source>b880c40a975611102c91b846f053af14</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 12:20:56</sys_created_on>
+        <sys_id>baba2463979211102c91b846f053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183b78a97820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-08 12:20:56</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>b2ba2463839211102fcadf61cff1db0d</update_guid>
+        <update_guid_history>b2ba2463839211102fcadf61cff1db0d:637355560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 12:22:06</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>573d067f491d44ca8e4b692d7dcb8759</sys_id>
+        <sys_metadata>c88a6c23979211102c91b846f053af45</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_774838_zetechno.Assignment group membe</sys_name>
+        <sys_package display_value="ZeTechno" source="x_774838_zetechno">a480c40a975611102c91b846f053af12</sys_package>
+        <sys_parent display_value="Incident">35b717ef970611102c91b846f053af1c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeTechno">a480c40a975611102c91b846f053af12</sys_scope>
+        <sys_scope_delete display_value="">3fca8c2403bb4c929c795f373f8d5899</sys_scope_delete>
+        <sys_update_name>sysevent_register_c88a6c23979211102c91b846f053af45</sys_update_name>
+        <sys_update_version display_value="sysevent_register_c88a6c23979211102c91b846f053af45">baba2463979211102c91b846f053af0d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-08 12:22:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
